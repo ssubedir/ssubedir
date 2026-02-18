@@ -72,6 +72,7 @@ I'm just a guy who's into tech, and I like to touch a bit of everything. My prof
 
 ## 🚀 Featured Projects
 
+- **[gogent](https://github.com/ssubedir/gogent)**: A lightweight, self-hosted(able), ReAct-style autonomous general-purpose agent written in Go.
 - **[kubesherpa-operator](https://github.com/ssubedir/kubesherpa-operator)**: Kubernetes Operator for JIT database access via bastion hosts.
 - **[chorus](https://github.com/ssubedir/chorus)**: A simple, distributed key-value store powered by Raft consensus.
 - **[nano-llm](https://github.com/ssubedir/nano-llm)**: Experiments with transformers and local LLM inference.
