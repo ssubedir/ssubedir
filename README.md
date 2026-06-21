@@ -1,6 +1,6 @@
 ## About Me
 
-I'm just a guy who's into tech, and I like to touch a bit of everything. My professional work spans frontend and backend development, and I spend just as much time on the cloud and infrastructure side with DevOps, and platform engineering. I dive into system design, system programming, and AI/ML, and most of what you'll find here are the personal projects I hack on and the experiments I've been wiring together.
+I'm a software engineer who enjoys working across the stack—from frontend and backend development to cloud infrastructure, DevOps, and platform engineering. I also spend time exploring system design, systems programming, and AI/ML. Most of the projects here are side projects, experiments, and ideas I've built to learn, explore, and have fun with technology.
 
 ---
 
