@@ -8,10 +8,7 @@ I'm a software engineer who enjoys working across the stack—from frontend and 
 - **[kubesherpa-operator](https://github.com/ssubedir/kubesherpa-operator)**: Kubernetes Operator for JIT database access via bastion hosts.
 - **[chorus](https://github.com/ssubedir/chorus)**: A simple, distributed key-value store powered by Raft consensus.
 - **[nano-llm](https://github.com/ssubedir/nano-llm)**: Experiments with transformers and local LLM inference.
-- **[crossplane-pe](https://github.com/ssubedir/crossplane-pe)**: Practical Crossplane compositions for deploying web apps on Kubernetes.
 - **[RCOm-windows-gfx1030](https://github.com/ssubedir/RCOm-windows-gfx1030)**: Running AMD ROCm on Windows for ML workloads.
-
-**Check out my [full repositories](https://github.com/ssubedir?tab=repositories) for more.**
 
 ---
 
