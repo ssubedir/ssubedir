@@ -3,6 +3,7 @@
 I'm a software engineer who enjoys working across the stack—from frontend and backend development to cloud infrastructure, DevOps, and platform engineering. I also spend time exploring system design, systems programming, and AI/ML. Most of the projects here are side projects, experiments, and ideas I've built to learn, explore, and have fun with technology.
 
 ## 🚀 Featured Projects
+- **[draincheck](https://github.com/ssubedir/draincheck)**: Provider-neutral CLI for testing graceful container shutdown in CI. Verifies readiness withdrawal, in-flight work draining, telemetry flushes, and clean exit with Docker, Podman, and K8s.
 - **[open-spanner](https://github.com/ssubedir/open-spanner)**: Open Spanner is an open source metering service for tracking usage.
 - **[gogent](https://github.com/ssubedir/gogent)**: A lightweight, ReAct-style agent written in Go.
 - **[kubesherpa-operator](https://github.com/ssubedir/kubesherpa-operator)**: Kubernetes Operator for JIT database access via bastion hosts.
